@@ -1,1 +1,1 @@
-ynam --use-chromedriver-on-path
+sudo ynam --use-chromedriver-on-path
