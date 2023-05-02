@@ -1,0 +1,2 @@
+@reboot ./entry.sh
+0,15,30,45 * * * * ./entry.sh
