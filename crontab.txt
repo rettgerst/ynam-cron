@@ -1,2 +1,2 @@
-@reboot /ynam.sh
-0,15,30,45 * * * * /ynam.sh
+@reboot sudo sh /ynam.sh
+0,15,30,45 * * * * sudo sh /ynam.sh
